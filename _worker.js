@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
 
 let urls = [];
 let subConverter = "SUBAPI.CMLiussss.net"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
-let subConfig = "https://xn--tp5a4a.us.kg/https://raw.githubusercontent.com/leotvgo/duo/refs/heads/main/guize/leo.ini"; //订阅配置文件
+let subConfig = "https://raw.githubusercontent.com/leotvgo/duo/refs/heads/main/guize/leo.ini"; //订阅配置文件
 let subProtocol = 'https';
 
 export default {
